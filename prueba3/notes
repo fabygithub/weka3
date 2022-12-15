@@ -50,6 +50,90 @@ java.text.ParseException Unparseable date
 el problema esta en la structura de la fecha
 @attribute fecont date dd-MM-yyyy
 
+Date attribute format Weka - Stack Overflow
+debe ser un problema en el formato
+
+@attribute <name> date [<date-format>]
+date format java
+Let us now look at some examples for different formats of date and time.
+
+java date format month and year only
+java date format yy
+https://stackoverflow.com/questions/44916745/java-simple-date-format-dd-mm-yy-v-s-dd-mm-yyyy
+java date month format
+
+https://www.geeksforgeeks.org/java-program-format-time-in-mmmm-format/
+not recognized arff data files
+date MMM-yy
+Solved: Date format mmm-yy - Microsoft Power BI Community
+https://community.powerbi.com/t5/Desktop/Date-format-mmm-yy/m-p/899752
+Date format mmm-yy
+
+unparseable date arff
+buscar algo parecido
+Unparseable date "dd.MM.yyyy" in ARFF file conversion
+date format java last digits
+Displaying the last two digits of the current year in Java
+
+https://stackoverflow.com/questions/20070258/displaying-the-last-two-digits-of-the-current-year-in-java
+
+podria ver si pasa el primer dato
+
+Lourdes,3666,Coche,264671,ene-98,2000
+
+Lourdes,3666,Coche,264671,98,2000
+paso la linea 11
+
+@attribute fecont date yy
+
+@data
+Lourdes,3666,Coche,264671,98,2000
+
+month arff format
+month text arff
+java month in text
+arff date format
+
+pasa llega hasta la linea 18
+
+number expected read luis
+
+arff no admite espacios 
+cuando hay un espacio es como que pasara a otra columna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
