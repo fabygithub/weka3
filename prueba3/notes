@@ -1,0 +1,78 @@
+14-12-2022
+WINDOWS instalacion
+https://sourceforge.net/projects/weka/files/weka-3-8/3.8.6/weka-3-8-6-azul-zulu-windows.exe/download?use_mirror=sitsa
+weka arff file
+weka 3 arff
+Como crear un archivo .Arff para el software Weka 2019
+Working with Excel (CSV) and .ARFF Files in Weka
+weka explorer
+weka abre archivos arff
+classify
+lazy
+ibk
+porcentaje 80%
+start
+weka ibk classifier download
+weka cannot handle string attributes
+ibk
+zeror
+
+preprocess
+abrir un archivo de excel
+
+weka3 no reconoce la hoja de calculo de excel
+hay que pasarlo csv
+hay muchos csv
+cerrar weka
+guardar los cambios
+abrir nuevamente weka
+
+error en la linea 1003
+
+el archivo seguros tiene un error en la linea 1
+copiar el archivo
+
+errores:
+
+Vendedor,poliza,seguro,monto,fecont,feexp
+
+@relation expected arff
+Weka - loading an arff file, keep getting error @relation expected, but the format is correct
+
+https://stackoverflow.com/questions/53529257/weka-loading-an-arff-file-keep-getting-error-relation-expected-but-the-form
+la solucion seria ver un archivo que funciones
+
+una alternativa es ir editanto notepad++
+error linea 11 en la fecha
+
+java.text.ParseException Unparseable date
+
+el problema esta en la structura de la fecha
+@attribute fecont date dd-MM-yyyy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
